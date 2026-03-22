@@ -22,7 +22,6 @@ My graduation project, **Market Rehberim**, combines Computer Vision with Androi
 
 - 📍 Aydın, Turkey — open to remote opportunities
 - 🎓 B.Sc. Computer Engineering — GPA 82.47/100 (final semester: 94.54/100)
-- 🔭 Currently deepening: MLOps · FastAPI · Docker · TFLite on-device AI
 - 💬 Ask me about: Computer Vision, RAG pipelines, Android + AI integration
 
 ---
