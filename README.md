@@ -1,5 +1,5 @@
 [Uploading profile_README.md…]()
-<h1 align="center">Ömer Buğra Daşdelen</h1>
+<h1 align="center">Buğra Daşdelen</h1>
 <h3 align="center">Computer Engineering Graduate · AI/ML & Android Developer</h3>
 
 <p align="center">
